@@ -1,0 +1,5 @@
+.idea
+vendor
+.project
+.svn
+peerjs/server/dev_mode.removeme
